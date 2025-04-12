@@ -21,8 +21,8 @@ export default function HomePage() {
 
             <h3 className="text-2xl font-bold">Documentation →</h3>
             <div className="text-lg">
-              Go to the AsciiDoc-based sections, each from selected Git repositories, that Antora generated into
-              the content of this website.
+              Go to the AsciiDoc-based sections, each from selected Git repositories, each having been passed
+              to our Antora playbook so taht new static content for this site will be generated.
             </div>
           </Link>
         </div>
