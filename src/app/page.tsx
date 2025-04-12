@@ -18,6 +18,7 @@ export default function HomePage() {
             href="https://create.t3.gg/en/introduction"
             target="_blank"
           >
+            
             <h3 className="text-2xl font-bold">Documentation →</h3>
             <div className="text-lg">
               Go to the AsciiDoc-based sections, each from selected Git repositories, that Antora generated into
